@@ -1,1 +1,1 @@
-This is the mail repository for W251 homework.
+This is the main repository for W251 homework.
